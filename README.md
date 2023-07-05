@@ -1,3 +1,8 @@
+# About Project
+
+CodeLive is a dynamic web development platform inspired by codepen.io, allowing developers to write HTML, CSS, and JavaScript code in real-time and instantly see the changes. With an intuitive and user-friendly interface built on React, this platform provides an immersive coding experience for both beginners and seasoned developers.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
