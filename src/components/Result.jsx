@@ -27,7 +27,7 @@ const Result = () => {
         }, 250);
 
         return () => clearTimeout(timeout);
-    }, [html, css, js])
+    }, [html, css, js, srcCode])
 
     return (
         <Container>
